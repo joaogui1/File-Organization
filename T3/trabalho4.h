@@ -1,0 +1,1 @@
+void create_index(char *nome_input, char *nome_output);
